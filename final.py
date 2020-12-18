@@ -14,3 +14,29 @@ we format the output to float and add percentage
 
 Print out the calculated values to the assigned variables.
 """
+
+
+"""
+def main():
+  file = "Final.txt"
+  calculate_percent_above_average(file)
+
+def calculate_percent_above_average(file):
+    open infile
+    listGrades
+    close infile
+    calculate length of grades
+    calculate sum of all grades
+    calculate avg = sum / length
+    print("Number of grades: ", length)
+    print("Average grade: ", avg)
+    set counter = 0
+    for item in listGrades:
+        if item > avg:
+            set counter += 1
+    calculate percentHigher = counter / length
+    print("Percentage of grades above the average grade: ", end= " ")
+    format percentHigher{0:.2%}
+
+main()
+"""
